@@ -1,0 +1,3 @@
+trigger consmerTrigger on consumer__c (before insert) {
+
+}
